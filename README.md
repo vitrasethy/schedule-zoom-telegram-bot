@@ -1,2 +1,1 @@
-# schedule-zoom-telegram-bot
-Using Telegram bot to schedule Zoom meeting
+Almost working because can create instant meeting but can't schedule meeting.
